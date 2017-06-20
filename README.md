@@ -1,0 +1,2 @@
+# rubyirc
+Ruby IRC Bot
